@@ -38,7 +38,7 @@ Once both packages are downloaded run 'jupyter lab' on cmder to open jupyter not
 
 ***
 
- You can view this nootbook here:
+ You can view this notebook here:
  
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://github.com/anegan-hub/PFDA-Assignment-2021.git)
 
